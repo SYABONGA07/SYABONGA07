@@ -35,14 +35,14 @@
 
 ### Hey, I'm Siyabonga
 
-I'm a **Full-Stack Software Developer** based in **Roodepoort, South Africa 🇿🇦**, and I’m passionate about building **systems that actually work** — from healthcare platforms to e-commerce solutions.
+I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦**, and I’m passionate about building **systems that actually work** — from healthcare platforms to e-commerce solutions.
 
 > 💡 *"I believe software should solve real problems, not just look good on paper."*
 
 <br/>
 
 🟢 &nbsp;**Currently available** for freelance, contract & full-time opportunities  
-📍 &nbsp;Based in Roodepoort — open to remote work  
+📍 &nbsp;Based in Durban — open to remote work  
 ⚡ &nbsp;Backend-heavy, full-stack capable, always shipping
 
 ---
@@ -54,27 +54,25 @@ I'm a **Full-Stack Software Developer** based in **Roodepoort, South Africa 🇿
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
 
 ### ⚙️ Frameworks & Libraries
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
 
 ---
 
@@ -92,4 +90,21 @@ I'm a **Full-Stack Software Developer** based in **Roodepoort, South Africa 🇿
 ---
 
 ## 🎯 Currently Focused On
+[████████████░░░░░░░░] System Architecture & Backend Performance
+[█████████████░░░░░░░] Deployment Pipelines & Hosting Strategies  
+[████████░░░░░░░░░░░░] Cloud & Production-Level Experience
+[██████████████░░░░░░] Real-world Business Solutions
 
+
+
+---
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+I'm open to **freelance work**, **contract projects**, and **full-time opportunities**.  
+If you've got a problem that needs solving — let's talk.
+
+[![Email](https://img.shields.io/badge/📧_siyabongamadlala@gmail.com-EA4335?style=for-the-badge)](mailto:siyabongamadlala@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-b
