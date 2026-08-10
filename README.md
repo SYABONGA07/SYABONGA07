@@ -1,4 +1,6 @@
 <div align="center">
+
+  
 ███████╗██╗██╗   ██╗ █████╗ ██████╗  ██████╗ ███╗   ██╗ ██████╗  █████╗
 ██╔════╝██║██║   ██║██╔══██╗██╔══██╗██╔═══██╗████╗  ██║██╔═══██╗██╔══██╗
 ███████╗██║██║   ██║███████║██████╔╝██║   ██║██╔██╗ ██║██║   ██║███████║
@@ -7,7 +9,6 @@
 ╚══════╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
                                                                    MADLALA
 
-                BUILDER • PROBLEM SOLVER • INNOVATOR
 </div>
 
 <div align="center">
@@ -110,4 +111,5 @@ If you've got a problem that needs solving — let's talk.
 
 [![Email](https://img.shields.io/badge/📧_siyabongamadlala@gmail.com-EA4335?style=for-the-badge)](mailto:siyabongamadlala@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyabonga-thobekani-madlala-335350374)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiyabongaMadlala)
 
