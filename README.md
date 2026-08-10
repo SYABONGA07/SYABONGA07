@@ -101,8 +101,11 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
 
 ## 🎯 Currently Focused On
 [████████████░░░░░░░░] System Architecture & Backend Performance
+
 [█████████████░░░░░░░] Deployment Pipelines & Hosting Strategies  
+
 [████████░░░░░░░░░░░░] Cloud & Production-Level Experience
+
 [██████████████░░░░░░] Real-world Business Solutions
 
 
