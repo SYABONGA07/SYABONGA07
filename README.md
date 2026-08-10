@@ -38,7 +38,7 @@
 
 ### Hey, I'm Siyabonga
 
-I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦**, and I’m passionate about building **systems that actually work** — from healthcare platforms to e-commerce solutions.
+I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦**, I am currently studying at Durban University of technology and I’m passionate about building **systems that actually work** — from healthcare platforms to e-commerce solutions.
 
 > 💡 *"I believe software should solve real problems, not just look good on paper."*
 
