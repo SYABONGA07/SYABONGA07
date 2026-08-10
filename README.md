@@ -2,16 +2,13 @@
 
 <div align="center">
 
-
-
-███████╗██╗██╗   ██╗ █████╗ ██████╗  ██████╗ ███╗   ██╗ ██████╗  █████╗  
-██╔════╝██║██║   ██║██╔══██╗██╔══██╗██╔═══██╗████╗  ██║██╔═══██╗██╔══██╗  
-███████╗██║██║   ██║███████║██████╔╝██║   ██║██╔██╗ ██║██║   ██║███████║  
-╚════██║██║╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██║╚██╗██║██║   ██║██╔══██║  
-███████║██║ ╚████╔╝ ██║  ██║██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝██║  ██║  
-╚══════╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝  
+  ███████╗██╗██╗   ██╗ █████╗ ██████╗  ██████╗ ███╗   ██╗ ██████╗  █████╗  
+  ██╔════╝██║██║   ██║██╔══██╗██╔══██╗██╔═══██╗████╗  ██║██╔═══██╗██╔══██╗  
+  ███████╗██║██║   ██║███████║██████╔╝██║   ██║██╔██╗ ██║██║   ██║███████║  
+  ╚════██║██║╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██║╚██╗██║██║   ██║██╔══██║  
+  ███████║██║ ╚████╔╝ ██║  ██║██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝██║  ██║  
+  ╚══════╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝  
                                                                    MADLALA
-
 </div>
 
 </div>
@@ -51,7 +48,7 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
 
 <br/>
 
-🟢 &nbsp;**Currently available** for freelance, contract & full-time opportunities  
+🟢 &nbsp;**Currently available** for freelance, intenships,contract & full-time opportunities  
 📍 &nbsp;Based in Durban — open to remote work  
 ⚡ &nbsp;Backend-heavy, full-stack capable, always shipping
 
@@ -116,7 +113,7 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
 
 <div align="center">
 
-I'm open to **freelance work**, **contract projects**, and **full-time opportunities**.  
+I'm open to **freelance work**, **contract projects**,**Internships** and **full-time opportunities**.  
 If you've got a problem that needs solving — let's talk.
 
 [![Email](https://img.shields.io/badge/📧_siyabongamadlala@gmail.com-EA4335?style=for-the-badge)](mailto:siyabongamadlala@gmail.com)
