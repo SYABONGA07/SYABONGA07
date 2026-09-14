@@ -115,12 +115,6 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
 [████████░░░░░░░░░░░░] Cloud & Production-Level Experience
 
 [██████████████░░░░░░] Real-world Business Solutions
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600"/>
-</div>
-
 <div align="center">
   <svg viewBox="0 0 120 28">
     <defs>
@@ -136,6 +130,11 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
   </svg>
 </div>
 
+
+
+<div align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.eb2a6178-c432-4253-873d-ef3377ef25d6.png" width="800" alt="Flowing Sea Banner"/>
+</div>
 
 
 
