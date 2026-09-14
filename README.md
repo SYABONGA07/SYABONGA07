@@ -126,10 +126,18 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
       <path id="wavePath" d="M 0 30 Q 30 10 60 30 T 120 30 V 60 H 0 Z" />
     </defs>
     <use href="#wavePath" x="0" y="0" fill="url(#waveGradient)">
-      <animateTransform attributeName="transform" begin="0s" dur="4s" type="translate" from="0,0" to="-60,0" repeatCount="indefinite" />
+      <animateTransform 
+        attributeName="transform" 
+        begin="0s" 
+        dur="4s" 
+        type="translate" 
+        from="0,0" 
+        to="-60,0" 
+        repeatCount="indefinite" />
     </use>
   </svg>
 </div>
+
 
 <div align="center">
   <svg width="600" height="20">
@@ -144,8 +152,6 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
     </defs>
   </svg>
 </div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+Learning;Always+Building;Always+Open+to+Opportunities" alt="Typing SVG" />
 
 
 
