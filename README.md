@@ -145,6 +145,7 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
   </svg>
 </div>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+Learning;Always+Building;Always+Open+to+Opportunities" alt="Typing SVG" />
 
 
 
