@@ -27,11 +27,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=SiyabongaMadlala&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 </div>
-## 🏆 Achievements
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" alt="Starstruck"/>
 
 ---
 
