@@ -139,6 +139,14 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" alt="Wave Divider"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="Flowing Water"/>
+</div>
+
+<div align="center">
   <svg width="600" height="20" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="grad">
