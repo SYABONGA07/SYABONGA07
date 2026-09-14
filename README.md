@@ -117,6 +117,28 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
 [██████████████░░░░░░] Real-world Business Solutions
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600"/>
+</div>
+
+<div align="center">
+  <svg viewBox="0 0 120 28">
+    <defs>
+      <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
+        <stop offset="5%" stop-color="#00D9FF" />
+        <stop offset="95%" stop-color="#0066FF" />
+      </linearGradient>
+      <path id="wave" d="M 0 30 Q 30 10 60 30 T 120 30 V 60 H 0 Z" />
+    </defs>
+    <use href="#wave" x="0" y="0" fill="url(#gradient)">
+      <animateTransform attributeName="transform" begin="0s" dur="4s" type="translate" from="0,0" to="-60,0" repeatCount="indefinite" />
+    </use>
+  </svg>
+</div>
+
+
+
+
 
 ---
 
