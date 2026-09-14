@@ -100,7 +100,8 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
 <div align="center">
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiyabongaMadlala&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SYABONGA07&show_icons=true&theme=tokyonight" />
+
 
 </div>
 
