@@ -82,12 +82,20 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
 <div align="center">
 
   <!-- Overall Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiyabongaMadlala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SYABONGA07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiyabongaMadlala&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYABONGA07&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
+
+<div align="center">
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SYABONGA07&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+
+</div>
+
 
 <div align="center">
 
