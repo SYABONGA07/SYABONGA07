@@ -117,38 +117,19 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
 [██████████████░░░░░░] Real-world Business Solutions
 
 <div align="center">
-  <svg viewBox="0 0 120 28" xmlns="http://www.w3.org/2000/svg">
+  <svg viewBox="0 0 120 28">
     <defs>
-      <linearGradient id="waveGradient" x1="0" x2="0" y1="0" y2="1">
+      <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
         <stop offset="5%" stop-color="#00D9FF" />
         <stop offset="95%" stop-color="#0066FF" />
       </linearGradient>
-      <path id="wavePath" d="M 0 30 Q 30 10 60 30 T 120 30 V 60 H 0 Z" />
+      <path id="wave" d="M 0 30 Q 30 10 60 30 T 120 30 V 60 H 0 Z" />
     </defs>
-    <use href="#wavePath" x="0" y="0" fill="url(#waveGradient)">
-      <animateTransform 
-        attributeName="transform" 
-        begin="0s" 
-        dur="4s" 
-        type="translate" 
-        from="0,0" 
-        to="-60,0" 
-        repeatCount="indefinite" />
+    <use href="#wave" x="0" y="0" fill="url(#gradient)">
+      <animateTransform attributeName="transform" begin="0s" dur="4s" type="translate" from="0,0" to="-60,0" repeatCount="indefinite" />
     </use>
   </svg>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" alt="Wave Divider"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" alt="Wave Divider"/>
-</div>
-
-
-
-
 
 ---
 
