@@ -126,17 +126,25 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
       <path id="wavePath" d="M 0 30 Q 30 10 60 30 T 120 30 V 60 H 0 Z" />
     </defs>
     <use href="#wavePath" x="0" y="0" fill="url(#waveGradient)">
-      <animateTransform 
-        attributeName="transform" 
-        begin="0s" 
-        dur="4s" 
-        type="translate" 
-        from="0,0" 
-        to="-60,0" 
-        repeatCount="indefinite" />
+      <animateTransform attributeName="transform" begin="0s" dur="4s" type="translate" from="0,0" to="-60,0" repeatCount="indefinite" />
     </use>
   </svg>
 </div>
+
+<div align="center">
+  <svg width="600" height="20">
+    <rect width="600" height="20" fill="url(#grad)">
+      <animate attributeName="x" from="0" to="600" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <defs>
+      <linearGradient id="grad">
+        <stop offset="0%" stop-color="#00D9FF"/>
+        <stop offset="100%" stop-color="#0066FF"/>
+      </linearGradient>
+    </defs>
+  </svg>
+</div>
+
 
 
 
