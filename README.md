@@ -143,22 +143,10 @@ I'm a **Full-Stack Software Developer** based in **DURBAN, South Africa 🇿🇦
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="Flowing Water"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" alt="Wave Divider"/>
 </div>
 
-<div align="center">
-  <svg width="600" height="20" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad">
-        <stop offset="0%" stop-color="#00D9FF"/>
-        <stop offset="100%" stop-color="#0066FF"/>
-      </linearGradient>
-    </defs>
-    <rect width="600" height="20" fill="url(#grad)">
-      <animate attributeName="x" from="0" to="600" dur="3s" repeatCount="indefinite"/>
-    </rect>
-  </svg>
-</div>
+
 
 
 
