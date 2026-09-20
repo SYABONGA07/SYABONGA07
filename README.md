@@ -1,169 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Siyabonga Madlala - Portfolio Banner</title>
-<style>
-  /* Reset and base styles */
-  * {
-    box-sizing: border-box;
-  }
-
-  body {
-    margin: 0;
-    padding: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background-color: #0d0d0d; /* Dark background for contrast */
-    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-  }
-
-  /* The main banner container */
-  .banner {
-    position: relative;
-    width: 100%;
-    max-width: 850px; 
-    height: 250px;    
-    
-    /* Blue gradient (Deep Navy to Vibrant Blue) */
-    background: linear-gradient(90deg, #001f3f 0%, #007bff 100%);
-    
-    border-radius: 8px;
-    overflow: hidden; /* IMPORTANT: Keeps the waves inside the banner */
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-    /* Blue glow shadow */
-    box-shadow: 0 10px 30px rgba(0, 123, 255, 0.3);
-  }
-
-  /* Text container */
-  .content {
-    position: relative;
-    z-index: 10; /* Keeps text above the background waves */
-    text-align: center;
-    color: #ffffff;
-    padding: 0 20px;
-    margin-bottom: 40px; /* Shifts text up slightly to make room for waves */
-  }
-
-  /* Name styling */
-  .content h1 {
-    margin: 0 0 12px 0;
-    font-size: 3.2rem; 
-    font-weight: 800;
-    letter-spacing: -0.5px;
-    text-shadow: 0 4px 10px rgba(0,0,0,0.4);
-  }
-
-  /* Subtitle styling */
-  .content p {
-    margin: 0;
-    font-size: 1.15rem;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    opacity: 0.95;
-    text-shadow: 0 2px 5px rgba(0,0,0,0.4);
-  }
-
-  /* --- WAVE ANIMATION STYLES --- */
-  .waves-container {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 120px; /* Height of the wave area */
-    z-index: 5;
-  }
-
-  .waves {
-    position: relative;
-    width: 100%;
-    height: 100%;
-  }
-
-  /* Animation for the moving waves */
-  .parallax > use {
-    animation: move-forever 25s cubic-bezier(.55,.5,.45,.5) infinite;
-  }
-
-  /* Different speeds and delays for each layer creates the 3D motion effect */
-  .parallax > use:nth-child(1) {
-    animation-delay: -2s;
-    animation-duration: 8s;
-  }
-  .parallax > use:nth-child(2) {
-    animation-delay: -3s;
-    animation-duration: 12s;
-  }
-  .parallax > use:nth-child(3) {
-    animation-delay: -4s;
-    animation-duration: 16s;
-  }
-  .parallax > use:nth-child(4) {
-    animation-delay: -5s;
-    animation-duration: 22s;
-  }
-
-  /* The infinite translation keyframe */
-  @keyframes move-forever {
-    0% {
-      transform: translate3d(-90px, 0, 0);
-    }
-    100% {
-      transform: translate3d(85px, 0, 0);
-    }
-  }
-
-  /* Responsive adjustments for smaller screens */
-  @media (max-width: 600px) {
-    .content h1 {
-      font-size: 2rem;
-    }
-    .content p {
-      font-size: 0.9rem;
-    }
-    .banner {
-      height: 200px;
-    }
-  }
-</style>
-</head>
-<body>
-
-  <div class="banner">
-    <div class="content">
-      <h1>Siyabonga Madlala</h1>
-      <p>ICT Student • Software Developer • Data Analytics</p>
-    </div>
-
-    <!-- Motion Waves SVG -->
-    <div class="waves-container">
-      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
-        <defs>
-          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-        </defs>
-        <g class="parallax">
-          <!-- Layered waves with varying opacities -->
-          <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(255, 255, 255, 0.15)" />
-          <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(255, 255, 255, 0.3)" />
-          <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(255, 255, 255, 0.5)" />
-          <use xlink:href="#gentle-wave" x="48" y="7" fill="rgba(255, 255, 255, 0.8)" />
-        </g>
-      </svg>
-    </div>
-  </div>
-
-</body>
-</html>
-
-  
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:007bff&height=200&section=header&text=Siyabonga%20Madlala&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=ICT%20Student%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Data%20Analytics&descAlignY=75&descAlign=50" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;ASP.NET+Core+%7C+React+%7C+Next.js;Building+systems+that+actually+work.;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
@@ -175,10 +12,9 @@
   <a href="mailto:siyabongamadlala@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-<a href="https://www.linkedin.com/in/siyabonga-thobekani-madlala-335350374">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/siyabonga-thobekani-madlala-335350374">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://github.com/SiyabongaMadlala">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -287,4 +123,4 @@ If you've got a problem that needs solving — let's talk.
 [![Email](https://img.shields.io/badge/📧_siyabongamadlala@gmail.com-EA4335?style=for-the-badge)](mailto:siyabongamadlala@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyabonga-thobekani-madlala-335350374)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiyabongaMadlala)
-
+</div>
