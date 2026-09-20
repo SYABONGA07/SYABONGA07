@@ -1,15 +1,11 @@
 
 
-<div align="center">
-
-
-</div>
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Siyabonga Madlala - Animated Banner</title>
+<title>Siyabonga Madlala - Portfolio Banner</title>
 <style>
   /* Reset and base styles */
   * {
@@ -34,7 +30,7 @@
     max-width: 850px; 
     height: 250px;    
     
-    /* NEW: Blue gradient (Deep Navy to Vibrant Blue) */
+    /* Blue gradient (Deep Navy to Vibrant Blue) */
     background: linear-gradient(90deg, #001f3f 0%, #007bff 100%);
     
     border-radius: 8px;
@@ -44,7 +40,7 @@
     justify-content: center;
     align-items: center;
     
-    /* NEW: Blue glow shadow */
+    /* Blue glow shadow */
     box-shadow: 0 10px 30px rgba(0, 123, 255, 0.3);
   }
 
@@ -145,7 +141,6 @@
   <div class="banner">
     <div class="content">
       <h1>Siyabonga Madlala</h1>
-      <!-- Updated text below -->
       <p>ICT Student • Software Developer • Data Analytics</p>
     </div>
 
@@ -165,6 +160,9 @@
       </svg>
     </div>
   </div>
+
+</body>
+</html>
 
 </body>
 </html>
